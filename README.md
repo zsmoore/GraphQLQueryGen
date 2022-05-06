@@ -1,0 +1,2 @@
+# GraphQLQueryGen
+Generate queries programatically
